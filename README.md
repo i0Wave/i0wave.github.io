@@ -4,9 +4,9 @@ Welcome to ioWave ( i0Wave ) official website .
 <p> and ioBot ( Simple Kick / Ban / Strike bot ) <p>
 
 What ioWave uses : 
-# [Visual Studio Code](https://code.visualstudio.com/)
-## [Discord.js](https://discord.js.org/#/)
-### [NodeJS](https://nodejs.org/en/)
+# [Visual Studio Code] (https://code.visualstudio.com/)
+## [Discord.js] (https://discord.js.org/#/)
+### [NodeJS] (https://nodejs.org/en/)
 
 - Bulleted
 - List
