@@ -10,7 +10,7 @@ What We do :
 Make Discord Bots.
 
 
-<p> [Visual Studio Code] (https://code.visualstudio.com/)
+ [Visual Studio Code](https://code.visualstudio.com/)
  [Discord.js] (https://discord.js.org/#/)
- [NodeJS] (https://nodejs.org/en/) <p>
+ [NodeJS] (https://nodejs.org/en/) 
 
