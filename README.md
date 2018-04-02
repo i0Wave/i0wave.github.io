@@ -6,7 +6,7 @@ Welcome to the Official ioWave Website.
 <p> UncleBot (Meme Bot) <p>
  <p> ioBot ( Simple Kick/Ban/Strike bot ) <p>
   
-### What We do :
+What We do :
 Make Discord Bots.
 
 
