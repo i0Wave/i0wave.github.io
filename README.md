@@ -7,7 +7,7 @@ Welcome to the Official ioWave Website.
  <p> ioBot ( Simple Kick/Ban/Strike bot ) <p>
   
 ### What We do :
-Make Discord Bots
+Make Discord Bots.
 
 
 # [Visual Studio Code](https://code.visualstudio.com/)
