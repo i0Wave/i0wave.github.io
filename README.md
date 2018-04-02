@@ -1,3 +1,8 @@
+
+
+
+
+
 ## Welcome to ioWave
 
 Welcome to ioWave ( i0Wave ) official website.
@@ -8,14 +13,62 @@ Welcome to ioWave ( i0Wave ) official website.
 Bots are in progress :
 UncleBot ( Meme Bot )
 ioBot ( Simple Kick / Ban / Strike bot )
+
 ```markdown
-What We Use To Code - 
-# Header 1
-## Header 2
-### Header 3
+What ioWave uses - 
+# Visual Studio Code
+## Discord.js ( https://discord.js.org/#/ )
+### NodeJS 
 
 - Bulleted
 - List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 1. Numbered
 2. List
