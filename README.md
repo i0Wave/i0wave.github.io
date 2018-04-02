@@ -1,7 +1,7 @@
 ## Welcome to ioWave
 
-Welcome to ioWave ( i0Wave ) official website
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to ioWave ( i0Wave ) official website.
+<p> We make Discord Bots <p>
 
 ### Discord Bots
 
@@ -9,8 +9,7 @@ Bots are in progress :
 UncleBot ( Meme Bot )
 ioBot ( Simple Kick / Ban / Strike bot )
 ```markdown
-Syntax highlighted code block
-
+What We Use To Code - 
 # Header 1
 ## Header 2
 ### Header 3
